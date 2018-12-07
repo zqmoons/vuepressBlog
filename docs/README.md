@@ -29,7 +29,7 @@ footer: Copyright © 2018-present one
 
 ### 最初的开始
 
-``` bash
+``` html
 <!DOCTYPE html>
 <html lang="en">
 <head>
